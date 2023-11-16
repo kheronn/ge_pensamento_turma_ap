@@ -17,3 +17,9 @@ p {
     font-size: 20px;
     color: green;
 }
+
+#banner{
+    width: 50%;
+    margin: 24px;
+    padding: 16px;
+}
