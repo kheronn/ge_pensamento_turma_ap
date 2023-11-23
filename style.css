@@ -25,5 +25,7 @@ p {
 }
 
 .historias{
-    background-image: linear-gradient(#40c9ff , #e81cff);
+    background-image: linear-gradient(#9bafd9 , #103783);
+    width: 400px;
+    color: white;
 }
