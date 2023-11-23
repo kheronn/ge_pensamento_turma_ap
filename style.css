@@ -23,3 +23,7 @@ p {
     margin: 24px;
     padding: 16px;
 }
+
+.historias{
+    background-image: linear-gradient(#40c9ff , #e81cff);
+}
