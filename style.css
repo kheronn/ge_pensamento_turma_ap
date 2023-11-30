@@ -16,8 +16,7 @@ p {
 
 #titulo{
     font-size: 30px;
-    text-align:center;
-    color:#86A789;
+    text-align:center;    
 }
 
 .texto{
@@ -30,6 +29,7 @@ p {
     width: 50%;
     margin: 24px;
     padding: 16px;
+    border-radius: 25px;
 }
 
 .historias{
