@@ -8,6 +8,14 @@ body{
     border-bottom: 2px solid white;
     font-size: 32px;
     color:white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
 }
 
 p {
