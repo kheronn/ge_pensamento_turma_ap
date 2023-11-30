@@ -2,6 +2,14 @@ body{
     background-color : #EBF3E8;
 }
 
+.cabecalho{
+    padding: 20px;
+    background-color: #507dbc;
+    border-bottom: 2px solid white;
+    font-size: 32px;
+    color:white;
+}
+
 p {
     color: red;
 }
